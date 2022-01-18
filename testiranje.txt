@@ -4,6 +4,6 @@ U ovaj text file pisat cemo sve korake koje sam naucio u gitu:
 2. Commit: git commit / git commit -m "added filename.md"
 3. Dodavanje file-a u pripremnu branchu/prije commit-a: git add filename.md
 4. Provjeravanje statusa: git status
-5. Dodaj sve fajlove: git add.
+5. Dodaj sve fajlove: git add .
 6. Dodaj novu branchu: git checkout -b new
 7. Promijeni branchu: git checkout master(ili ime branche koju zelis)
