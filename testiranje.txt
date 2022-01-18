@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 U ovaj text file pisat cemo sve korake koje sam naucio u gitu:
 
 1. Initialization of the folder: git init
@@ -15,3 +16,22 @@ U ovaj text file pisat cemo sve korake koje sam naucio u gitu:
 13. Showing 5 last changes: git log -5
 14. Showing changes in a small graph: git log --graph
 15. New command
+=======
+U ovaj text file pisat cemo sve korake koje sam naucio u gitu:
+
+1. Initialization of the folder: git init
+2. Commit: git commit / git commit -m "added filename.md"
+3. Dodavanje file-a u pripremnu branchu/prije commit-a: git add filename.md
+4. Provjeravanje statusa: git status
+5. Dodaj sve fajlove: git add .
+6. Dodaj novu branchu: git checkout -b new
+7. Promijeni branchu: git checkout master(ili ime branche koju zelis)
+8. Povezati dvije branche: git merge new
+9. Pushing files to remote repository: git push
+10.Pulling files from remote repository: git pull
+11. See changes: git diff readme.md
+12. Add only specific changes: git add -p filename.md
+13. Showing 5 last changes: git log -5
+14. Showing changes in a small graph: git log --graph
+15. Commit bez potrebe za add: git commit -a
+>>>>>>> new
