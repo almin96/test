@@ -12,3 +12,4 @@ U ovaj text file pisat cemo sve korake koje sam naucio u gitu:
 10.Pulling files from remote repository: git pull
 11. See changes: git diff readme.md
 12. Add only specific changes: git add -p filename.md
+13. Showing 5 last changes: git log -5
