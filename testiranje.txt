@@ -10,4 +10,3 @@ U ovaj text file pisat cemo sve korake koje sam naucio u gitu:
 8. Povezati dvije branche: git merge new
 9. Pushing files to remote repository: git push
 10.Pulling files from remote repository: git pull
-
