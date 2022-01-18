@@ -13,3 +13,4 @@ U ovaj text file pisat cemo sve korake koje sam naucio u gitu:
 11. See changes: git diff readme.md
 12. Add only specific changes: git add -p filename.md
 13. Showing 5 last changes: git log -5
+14. Showing changes in a small graph: git log --graph
