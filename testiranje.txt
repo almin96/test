@@ -15,3 +15,4 @@ U ovaj text file pisat cemo sve korake koje sam naucio u gitu:
 13. Showing 5 last changes: git log -5
 14. Showing changes in a small graph: git log --graph
 15. Commit bez potrebe za add: git commit -a
+16. Vidi u kojoj si branchi i koje sve postoje: git branch -a
